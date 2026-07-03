@@ -1,3 +1,8 @@
+# Diabetes Risk Analysis Dashboard
+
+## Dashboard Preview
+
+![Dashboard Screenshot](Dashboard_screenshot.png)
 
 \## Project Overview
 
