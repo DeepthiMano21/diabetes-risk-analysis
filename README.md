@@ -7,7 +7,7 @@
 
 \## Project Overview
 
-This project analyzes diabetes patient data using Python, SQL, and Power BI.
+This project analyzes diabetes patient data based on 3 parameters : age, BMI and glucose levels; using Python, SQL, and Power BI.
 
 
 
