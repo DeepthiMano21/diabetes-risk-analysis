@@ -1,9 +1,3 @@
-## Dashboard Preview
-
-![Dashboard](Dashboard_screenshot.png)
-\# Diabetes Risk Analysis Dashboard
-
-
 
 \## Project Overview
 
@@ -58,10 +52,6 @@ Visualizations include:
 * Average BMI by Risk Category
 * Average Age by Risk Category
 * Average Glucose by Risk Category
-
-## Dashboard Preview
-
-![Dashboard](dashboard_screenshot.png)
 
 
 \## Dataset
