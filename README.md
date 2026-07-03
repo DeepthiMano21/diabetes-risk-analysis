@@ -56,6 +56,9 @@ Visualizations include:
 * Average Age by Risk Category
 * Average Glucose by Risk Category
 
+## Dashboard Preview
+
+![Dashboard](dashboard_screenshot.png)
 
 
 \## Dataset
