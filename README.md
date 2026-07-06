@@ -1,56 +1,38 @@
-# Diabetes Risk Analysis Dashboard
-
-## Dashboard Preview
+Diabetes Risk Analysis Dashboard
+Dashboard Preview
 
 ![Dashboard Screenshot](Dashboard_screenshot.png)
 
-\## Project Overview
-
+Project Overview
 This project analyzes diabetes patient data based on 3 parameters : age, BMI and glucose levels; using Python, SQL, and Power BI.
 
-
-
-\## Tools Used
-
+Tools Used
 * Python (Pandas)
 * MySQL
 * Power BI
 
-
-
-\## Python Tasks
-
+Python Tasks
 * Data cleaning
 * Null value handling
 * Duplicate removal
-* Feature creation
+* Featu;re creation
 * Statistical Analysis
 * Risk category classification
 
-
-
-\## Risk Categories
-
+Risk Categories
 * Normal (Glucose < 100)
 * Pre-Diabetic (100–125)
 * High Risk (>=126)
 
-
-
-\## SQL Analysis
-
+SQL Analysis
 * Total patient count
 * Risk category distribution 
 * Average BMI by risk category
 * Average age by risk category
 * Outcome distribution
 
-
-
-\## Power BI Dashboard
-
+Power BI Dashboard
 Visualizations include:
-
 * KPI Cards
 * Risk Category Distribution
 * Outcome Distribution
@@ -58,8 +40,6 @@ Visualizations include:
 * Average Age by Risk Category
 * Average Glucose by Risk Category
 
-
-\## Dataset
-
+Dataset:
 Pima Indians Diabetes Dataset
 
